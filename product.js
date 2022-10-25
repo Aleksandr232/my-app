@@ -2,7 +2,7 @@ export const product =[
     {
         id:1,
         title: 'wefwe',
-        price: '100 р',
+        price: 100,
         description:
             'sdsdfsd',
         category:'sgsd',
@@ -15,7 +15,7 @@ export const product =[
     {
         id:2,
         title: 'wefwe',
-        price: '100 р',
+        price: 100,
         description:
             'sdsdfsd',
         category:'sgsd',
@@ -28,7 +28,7 @@ export const product =[
     {
         id:3,
         title: 'wefwe',
-        price: '100 р',
+        price: 100,
         description:
             'sdsdfsd',
         category:'sgsd',
@@ -41,7 +41,7 @@ export const product =[
     {
         id:4,
         title: 'wefwe',
-        price: '100 р',
+        price: 100,
         description:
             'sdsdfsd',
         category:'sgsd',
@@ -54,7 +54,7 @@ export const product =[
     {
         id:5,
         title: 'wefwe',
-        price: '100 р',
+        price: 100,
         description:
             'sdsdfsd',
         category:'sgsd',
